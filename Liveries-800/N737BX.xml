@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+ 
+<PropertyList>
+<sim>
+    <model>
+        <livery>                     
+            <name type="string">Boeing Company</name>
+            <texture>Liveries-800/N737BX.png</texture> 
+			<newwinglets type="bool">false</newwinglets>
+			<nowinglets type="bool">false</nowinglets> 
+        </livery>        
+    </model>
+</sim>
+</PropertyList>

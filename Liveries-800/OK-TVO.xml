@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+ 
+<PropertyList>
+<sim>
+    <model>
+        <livery>                     
+            <name type="string">Travel Service (Moravian-Silesian Region livery)</name>
+            <texture>/Liveries-800/OK-TVO.png</texture> 
+			<newwinglets type="bool">false</newwinglets>
+			<nowinglets type="bool">false</nowinglets> 
+        </livery>        
+    </model>
+</sim>
+</PropertyList>

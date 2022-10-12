@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+ 
+<PropertyList>
+<sim>
+    <model>
+        <livery>                     
+            <name type="string">TUI (Air Explore)</name>
+            <texture>/Liveries-800/OM-JEX.png</texture>  
+			<newwinglets type="bool">fasle</newwinglets>
+			<nowinglets type="bool">false</nowinglets> 	 
+        </livery>        
+    </model>
+</sim>
+</PropertyList>
